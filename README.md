@@ -1,10 +1,10 @@
-# 🛍️ Consumer Behavior Analytics
+# Customer Purchase Patterns
 
 This repository presents a comprehensive exploratory data analysis (EDA) project that investigates **customer shopping trends** and **sales performance** using Python. It showcases how data-driven insights can help understand purchasing behavior, seasonal patterns, and key business questions for retail optimization.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 .
@@ -19,16 +19,16 @@ This repository presents a comprehensive exploratory data analysis (EDA) project
 
 ---
 
-## 📊 Project Highlights
+##  Project Highlights
 
-### 🧠 **Customer Shopping Trends**
+### **Customer Shopping Trends**
 - Age-based and gender-based purchasing patterns
 - Preferred payment methods and product categories
 - Purchase frequency vs. subscription/discount/promo usage
 - Seasonal and regional shopping behavior
 - Correlation analysis between numeric features
 
-### 📦 **Sales Data Analysis**
+###  **Sales Data Analysis**
 - Sales performance by month and city
 - Product categorization (phones, accessories, etc.)
 - High- and low-performing products by season
@@ -37,7 +37,7 @@ This repository presents a comprehensive exploratory data analysis (EDA) project
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Pandas**
@@ -47,19 +47,19 @@ This repository presents a comprehensive exploratory data analysis (EDA) project
 
 ---
 
-## 🔍 Keywords
+##  Keywords
 
 `consumer behavior` · `retail analytics` · `sales trends` · `data visualization` · `EDA` · `shopping insights` · `Python data analysis` · `customer segmentation` · `pandas` · `seaborn`
 
 ---
 
-## 📎 Dataset Reference
+##  Dataset Reference
 
 The dataset used for this analysis (`shopping_trends.csv`) contains anonymized data of consumer purchases, including demographic features, payment preferences, seasonal buying patterns, and product details.
 
 ---
 
-## 📌 Usage
+##  Usage
 
 Clone the repo and run:
 ```bash
@@ -67,14 +67,6 @@ python Customer\ Shopping\ Trends\ EDA.py
 ```
 or explore `1_familiarization.ipynb` for step-by-step walkthroughs in Jupyter.
 
----
-
-## 📜 License
-
-This project is for educational and portfolio use. Dataset rights belong to their respective owners.
 
 ---
 
-## 🙌 Acknowledgements
-
-This project is independently developed as a data analysis case study. All datasets used are for educational purposes only.
